@@ -26,12 +26,12 @@ With non-en_US key codes
 ```html
 <script type="tet\javascript">
   $(document).konami({
-    vk_up: 00,
-    vk_down: 01,
-    vk_left: 02,
-    vk_right: 03,
-    vk_a: 96,
-    vk_b: 33
+    vk_up: '00',
+    vk_down: '01',
+    vk_left: '02',
+    vk_right: '03',
+    vk_a: '96',
+    vk_b: '33'
   });
 </script>
 ```
