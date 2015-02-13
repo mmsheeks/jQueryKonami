@@ -5,7 +5,7 @@ A Konami Code jQuery Plugin
 Include jQuery and the script on your webpage
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script type="text/javascript" src="jquery.konami.js"></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/mmsheeks/jQueryKonami/master/jquery.konami.min.js"></script>
 ```
 
 Initialize the plugin
