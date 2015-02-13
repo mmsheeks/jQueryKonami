@@ -24,7 +24,7 @@ Initialize the plugin
 
 With non-en_US key codes
 ```html
-<script type="tet\javascript">
+<script type="text\javascript">
   $(document).konami({
     vk_up: '00',
     vk_down: '01',
